@@ -1,5 +1,5 @@
 # 💫 About Me:
-📍I'm currently Studying at Sivas Cumhuriyet.<br>🔸Mid C++ Developer<br>🔸Mid Game Developer
+📍I'm currently Studying at Sivas Cumhuriyet.<br>🔸Mid Game Developer
 
 
 ## 🌐 Socials:
